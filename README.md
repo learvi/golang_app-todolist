@@ -1,4 +1,7 @@
-golang todo list app`ka!!!!
-fucking shit!! 
-i`m new Mark Zukerberg))^)^))^)^)^)
-пше
+golang todo list app!!
+
+
+**fucking shit!! 
+
+
+im new Mark Zukerberg))^)^))^)^)^)
